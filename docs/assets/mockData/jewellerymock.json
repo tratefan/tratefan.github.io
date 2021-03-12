@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Zandra Wedding Band & Engagement Ring Set",
+        "description": "<p>Celebrate your journey of eternal love with this exquisite diamond and morganite bridal set. Mastercrafted in 18ct white gold (750), the engagement ring showcases a stunning cushion cut Morganite center stone framed by round diamonds as well as accenting the ring's band on each side. On your wedding day, the matching diamond wedding band completes this elegant ensemble.</p>\r\n<p>Bridal sets are sold as one unit</p>\r\n<p>*Please note: This item is considered a \"Made to Order\" item. Please specify your ring size at check out under \"Special Instructions\". Find out your ring size by clicking here</p>\r\n<p><b>*Price is subject to change on the dollar rate of the day please enquire to get an updated price</b></p>",
+        "price": "Price on Request",
+        "category": "bridal sets",
+        "code": "HR2663",
+        "img": "HR2663.png"
+    },
+    {
+        "id": 2,
+        "title": "Clarissa Wedding Band & Engagement Ring Set",
+        "description": "<p>Designed to be the perfect match and worn together harmoniously, the Clarissa bridal set is mastercrafted in 9ct white or rose gold (375). The stunning engagement ring showcases a sparkling white round cubic zirconia with a halo of diamonds that flow onto the band partnered with a matching diamond encrusted wedding band.</p>\r\n<p>Bridal sets are sold as one unit</p>\r\n<p>*Please note: This item is considered a \"Made to Order\" item. Please specify your ring size at check out under \"Special Instructions\". Find out your ring size by clicking here</p>\r\n<p><b>*Price is subject to change on the dollar rate of the day please enquire to get an updated price</b></p>",
+        "price": "35200",
+        "category": "bridal sets",
+        "code": "DR129-CZ-DI-WG",
+        "img": "DR129-CR-DI-RG.png"
+    },
+    {
+        "id": 3,
+        "title": "I.N.O.X. PARACORD EDITION GIFT SET",
+        "description": "<p>Introducing the limited Rhino Conservation I.N.O.X. Paracord Edition Gift Set by Victorinox in support of anti-poaching activities in South Africa, which includes a Victorinox Limited Edition Pioneer Pocket Knife in British Racing Green and one genuine rubber strap to alternate between the two strap varieties.  </p>\r\n<p>The I.N.O.X. Paracord collection by Victorinox Swiss Army was created for a life of adventure.Featuring scratch proof anti reflection sapphire crystal , survival paracord bracelet and military design it is engineered to be ready for anything, including drops, dives and daily usage.</p>",
+        "price": "12559",
+        "category": "conservation collection",
+        "code": "VIC2417271RH",
+        "img": "VIC2417271RH.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Paula Necklet",
+        "description": "<p>The perfect gift for someone close to your heart. Mastercrafted in Sterling Silver (925), the Paula necklet is beautifully refined, set with a petite heart shaped white, pink or deep blue cubic zirconia adding serenity and sophistication to this easy to wear accessory.</p>\r\n<p>Necklet length 43cm</p>",
+        "price": "780",
+        "category": "neckpieces",
+        "code": "SLV-NL-0016",
+        "img": "SLV-NL-0016.png"
+    },
+    {
+        "id": 5,
+        "title": "Monica Earrings",
+        "description": "<p>A delicate diamond floral inspired design embraces a round morganite paired with rose bud detail, making the Monica earrings refined and graceful. Add a romantic and whimsical statement to your wardrobe. Mastercrafted in 9ct white gold (375).</p>",
+        "price": "21400",
+        "category": "classique collection",
+        "code": "DE107-MOR-D-W",
+        "img": "DE107-MOR-D-W.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Ava Tanzanite Rings",
+        "description": "<p>Mastercrafted in 18ct white gold (750) Ava rings are set with large oval shaped tanzanites and diamonds.</p>\r\n<p>*Please note: This item is considered a \"Made to Order\" item. Please specify your ring size at check out under \"Special Instructions\". Find out your ring size by clicking here.</p>",
+        "price": "Price on Request",
+        "category": "fine jewellery",
+        "code": "HR2016-TAN-CERT",
+        "img": "HR2016-TAN-CERT.jpg"
+    },
+    {
+        "id": 7,
+        "title": "JUPITER CUFFLINKS",
+        "description": "<p>A truly classic pair of cufflinks, well suited to a formal/black tie evening out and also perfectly suited to a day in the office. Jupiter cufflinks are mastercrafted in stainless steel with a vermeil gold plating, with black enamel detail.</p>\r\n<p>Cufflinks feature the Jenna Clifford logo on the foot of the cufflink, and are presented in a Jenna Clifford cufflink box.</p>\r\n<p>Diameter 15mm</p>",
+        "price": "490",
+        "category": "cufflinks ",
+        "code": "SLV-CU-0011",
+        "img": "SLV-CU-0011.jpg"
+    }
+]
